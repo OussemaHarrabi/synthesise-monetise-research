@@ -1,0 +1,8 @@
+# Third-party YouTube transcripts captured as evidence during the customer-research
+# workstream. Retained locally; not republished (copyright of the video authors).
+raw/yt/
+# Python / editor noise
+__pycache__/
+*.pyc
+.vscode/
+.idea/
